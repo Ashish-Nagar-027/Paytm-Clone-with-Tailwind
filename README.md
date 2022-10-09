@@ -6,7 +6,7 @@ it took me more than 10 hrs to build this project .<br />
 
 **✅ check it out**  👉  [Live Link of this project](https://paytm-clone-by-ashish.netlify.app/)
 
-## 📝 note:
+## 📝 note :
  I have used direct cdn link from original site for most of images (logos,background images and etc) <br/>
 
       
