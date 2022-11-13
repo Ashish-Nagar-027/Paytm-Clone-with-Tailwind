@@ -1,4 +1,5 @@
 # 📌 Disclaimer : 
+because of copyright issue i am making it private.
 this is just for education and learning purpose.contact me if any issue. <a href="http://ashish-nagar.netlify.app/">My Contacts</a>
 
 # 📌 About  project :
